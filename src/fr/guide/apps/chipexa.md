@@ -53,7 +53,7 @@ numériques, et `A`-`F` sur les touches `e^x`, `ln`, `log`, `i`, `,`, `^`.
 
 Vous pouvez télécharger l'application Chipexa depuis ce lien :
 
-- [Chipexa v1.0.0](/assets/apps/chipexa-1.0.0.nwa), Première version
+- [Chipexa v1.0.0](src/.vuepress/public/assets/apps/chipexa-1.0.0.nwa), Première version
 
 ## Installation
 
