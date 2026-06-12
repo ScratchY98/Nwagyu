@@ -2,8 +2,7 @@
 
 Chipexa est un éditeur hexadécimal et émulateur CHIP-8 pour NumWorks :
 écrivez des programmes CHIP-8 opcode par opcode directement sur votre
-calculatrice, puis exécutez-les instantanément. Contrairement à l'émulateur
-[CHIP-8](./chip-8.md) qui ne fait que lancer des ROMs existantes, cette
+calculatrice, puis exécutez-les instantanément. Cette
 application est faite pour *écrire* des programmes CHIP-8 n'importe où — sans
 ordinateur.
 
