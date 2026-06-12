@@ -2,8 +2,7 @@
 
 Chipexa is a CHIP-8 hex editor and emulator for NumWorks: write CHIP-8
 programs opcode by opcode directly on your calculator, then run them instantly.
-Unlike the [CHIP-8](./chip-8.md) emulator that only plays existing ROMs, this
-app is made for *writing* CHIP-8 programs on the go — no computer needed.
+This app is made for *writing* CHIP-8 programs on the go — no computer needed.
 
 ## Features
 
