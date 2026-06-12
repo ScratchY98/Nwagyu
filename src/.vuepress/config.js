@@ -181,6 +181,7 @@ export default {
             "compressor",
             "backup",
             "numcraft",
+            "chipexa",
             "celeste",
             "conway",
             "wave",
