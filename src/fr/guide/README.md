@@ -19,7 +19,7 @@ actuellement disponibles :
 - [Peanut-GB](./apps/peanut-gb.md): Émulateur GameBoy
 - [Nofrendo](./apps/nofrendo.md): Émulateur NES
 - [Numcraft](./apps/numcraft.md): Jeu de bac à sable type Minecraft
-- [Chip-8 HEXA](./apps/chipexa.md): Un émulateur CHIP-8 avec un éditeur héxadécimal
+- [Chipexa](./apps/chipexa.md): Un émulateur CHIP-8 avec un éditeur héxadécimal
 - [Celeste Classic](./apps/celeste.md): Jeu de plateforme
 - [Wabbitemu](./apps/wabbitemu.md): Émulateur TI-84
 - [Wave](./wave.md): Geometry Dash Wave
