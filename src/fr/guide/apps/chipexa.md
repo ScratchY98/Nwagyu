@@ -28,17 +28,17 @@ Appuyez sur `EXE` pour lancer le programme, `Back` pour revenir à l'éditeur.
 
 | Touche                        | Action                                        |
 | ----------------------------- | --------------------------------------------- |
-| `0`-`9`                       | Saisir les chiffres hexadécimaux 0-9          |
+| 0-9                           | Saisir les chiffres hexadécimaux 0-9          |
 | `e^x` `ln` `log` `i` `,` `^`  | Saisir les chiffres hexadécimaux A-F          |
 | Flèches                       | Déplacer le curseur                           |
-| `EXE` / `OK`                  | Lancer le programme                           |
-| `Backspace`                   | Effacer le dernier chiffre de la cellule      |
-| `+`                           | Insérer une cellule vide avant le curseur     |
-| `-`                           | Supprimer la cellule courante                 |
-| `Ans`                         | Alterner un saut de ligne visuel              |
-| `Toolbox`                     | Sauvegarder (nom saisi avec les lettres alpha)|
-| `Var`                         | Charger / supprimer des fichiers `.ch8`       |
-| `Back`                        | Quitter l'application                         |
+| EXE / OK                      | Lancer le programme                           |
+| Backspace                     | Effacer le dernier chiffre de la cellule      |
+| +                             | Insérer une cellule vide avant le curseur     |
+| -                             | Supprimer la cellule courante                 |
+| Ans                           | Alterner un saut de ligne visuel              |
+| Toolbox                       | Sauvegarder (nom saisi avec les lettres alpha)|
+| Var                           | Charger / supprimer des fichiers `.ch8`       |
+| Back                          | Quitter l'application                         |
 
 ### Émulateur
 
