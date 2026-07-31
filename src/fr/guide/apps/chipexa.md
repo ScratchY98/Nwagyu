@@ -43,7 +43,7 @@ Appuyez sur `EXE` pour lancer le programme, `Back` pour revenir à l'éditeur.
 ### Émulateur
 
 Le clavier 16 touches du CHIP-8 est réparti ainsi : `0`-`9` sur les touches
-numériques, et `A`-`F` sur les touches `e^x`, `ln`, `log`, `i`, `,`, `^`.
+numériques, et `A`-`F` sur la deuxième rangée du clavier.
 
 | Touche     | Action              |
 | ---------- | ------------------- |
