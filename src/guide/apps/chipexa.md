@@ -23,7 +23,7 @@ the program, `Back` to return to the editor.
 
 ### Editor
 
-| **Key**                       | **Action**                                  |
+| Key                           | Action                                      |
 | ----------------------------- | ------------------------------------------- |
 | 0-9                           | Type hex digits 0-9                         |
 | Second keyboard row           | Type hex digits A-F                         |
