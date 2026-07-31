@@ -45,7 +45,7 @@ Appuyez sur `EXE` pour lancer le programme, `Back` pour revenir à l'éditeur.
 Le clavier 16 touches du CHIP-8 est réparti ainsi : `0`-`9` sur les touches
 numériques, et `A`-`F` sur les touches `e^x`, `ln`, `log`, `i`, `,`, `^`.
 
-| **Touche** | **Action**          |
+| Touche     | Action              |
 | ---------- | ------------------- |
 | `Back`     | Revenir à l'éditeur |
 
