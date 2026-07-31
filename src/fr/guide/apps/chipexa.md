@@ -47,7 +47,7 @@ numériques, et `A`-`F` sur les touches `e^x`, `ln`, `log`, `i`, `,`, `^`.
 
 | Touche     | Action              |
 | ---------- | ------------------- |
-| `Back`     | Revenir à l'éditeur |
+| Back       | Revenir à l'éditeur |
 
 ## Téléchargement
 
