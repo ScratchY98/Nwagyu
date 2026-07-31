@@ -44,7 +44,7 @@ The CHIP-8 16-key pad is mapped as follows: `0`-`9` on the digit keys, and
 
 | Key     | Action               |
 | ------- | -------------------- |
-|`Back    | Return to the editor |
+| Back    | Return to the editor |
 
 ## Download
 
