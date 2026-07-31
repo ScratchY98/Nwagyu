@@ -29,7 +29,7 @@ Appuyez sur `EXE` pour lancer le programme, `Back` pour revenir à l'éditeur.
 | Touche                        | Action                                        |
 | ----------------------------- | --------------------------------------------- |
 | 0-9                           | Saisir les chiffres hexadécimaux 0-9          |
-| `e^x` `ln` `log` `i` `,` `^`  | Saisir les chiffres hexadécimaux A-F          |
+| Deuxième rangée du clavier    | Saisir les chiffres hexadécimaux A-F          |
 | Flèches                       | Déplacer le curseur                           |
 | EXE / OK                      | Lancer le programme                           |
 | Backspace                     | Effacer le dernier chiffre de la cellule      |
