@@ -40,7 +40,7 @@ the program, `Back` to return to the editor.
 ### Emulator
 
 The CHIP-8 16-key pad is mapped as follows: `0`-`9` on the digit keys, and
-`A`-`F` on the `e^x`, `ln`, `log`, `i`, `,`, `^` keys.
+`A`-`F` on the second keyboard row.
 
 | Key     | Action               |
 | ------- | -------------------- |
