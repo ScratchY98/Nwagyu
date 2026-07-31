@@ -25,17 +25,17 @@ the program, `Back` to return to the editor.
 
 | **Key**                       | **Action**                                  |
 | ----------------------------- | ------------------------------------------- |
-| `0`-`9`                       | Type hex digits 0-9                         |
+| 0-9                           | Type hex digits 0-9                         |
 | `e^x` `ln` `log` `i` `,` `^`  | Type hex digits A-F                         |
 | Arrow keys                    | Move the cursor                             |
-| `EXE` / `OK`                  | Run the program                             |
-| `Backspace`                   | Erase the last digit of the current cell    |
-| `+`                           | Insert an empty cell before the cursor      |
-| `-`                           | Delete the current cell                     |
-| `Ans`                         | Cycle a visual line break before the cell   |
-| `Toolbox`                     | Save (type a name with the alpha letters)   |
-| `Var`                         | Load / delete `.ch8` files                  |
-| `Back`                        | Quit the app                                |
+| EXE / OK                      | Run the program                             |
+| Backspace                     | Erase the last digit of the current cell    |
+| +                             | Insert an empty cell before the cursor      |
+| -                             | Delete the current cell                     |
+| Ans                           | Cycle a visual line break before the cell   |
+| Toolbox                       | Save (type a name with the alpha letters)   |
+| Var                           | Load / delete `.ch8` files                  |
+| Back                          | Quit the app                                |
 
 ### Emulator
 
